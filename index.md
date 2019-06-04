@@ -2,19 +2,31 @@
 title: Home
 ---
 
-# Workshop Template!
+# EANBiT Residential Training 2019 
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A minimal Jekyll theme for creating workshop websites.
 
-*Add your workshop abstract here!*
+The Eastern Africa Network for Bioinformatics Training (EANBiT) will conduct an intensive 6-
+week bioinformatics residential course to be hosted by the International Centre of Insect
+Physiology and Ecology, icipe in Nairobi, Kenya and Pwani University, Kilifi, Kenya from **01st
+July – 09th August 2019.**
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This training aims at strengthening bioinformatics technical capacity and skills among the
+participants; preparing them to work as bioinformaticians and to become project ready so that
+they have the necessary skills to offer bioinformatics support in projects they are attached to.
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
+The topics covered include:
+Key topics to be covered include:
+
+- Version control and collaborative development (Git & Github & Slack etc.)
+- Advanced Scripting
+- Biological databases and API
+- Gene models and annotation
+- Reproducibility and package management: workflow languages (CWL, Snakemake,
+Conda)
+- Specialized databases (VectorBase, EupathDB) and APIs
+- Phylogenomics (Visualization and Annotation)
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -24,8 +36,6 @@ Fun!
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
 > images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).

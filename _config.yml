@@ -8,26 +8,29 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: EANBiT Residential Training 2019
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
+description: "An intensive 6-
+week bioinformatics residential course to be hosted by the International Centre of Insect
+Physiology and Ecology, icipe in Nairobi, Kenya and Pwani University, Kilifi, Kenya from 01st
+July – 09th August 2019."
 keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Caleb Kibet
+pub_year: 2019
+github_username: kipkurui
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/eanbit-rt2019"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: https://eanbit-rt2019.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template
+baseurl: /EANBiT-RT2019
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
