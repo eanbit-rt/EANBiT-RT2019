@@ -2,9 +2,9 @@
 title: Home
 ---
 
-# EANBiT Residential Training 2019 
+# EANBiT Residential Training 2019.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Participants of EANBIT Residential Training 2018" width="75%" %}
 
 
 The Eastern Africa Network for Bioinformatics Training (EANBiT) will conduct an intensive 6-
