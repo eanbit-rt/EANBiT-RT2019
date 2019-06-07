@@ -15,6 +15,9 @@ Here, the participants of the residential training will write their profiles by 
 
 ## Profiles
 Add Image here
+
 Name: 
+
 Instituition: 
+
 Short Bio: 
