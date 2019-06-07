@@ -5,7 +5,7 @@ nav: true
 
 # Create your Profile
 
-Here, the participants of the residential training will write their profiles by following the following instructions:
+Here, the participants of the residential training will write their profiles by following the instructions below:
 
 1. Fork the [repository](https://github.com/eanbit-rt2019/EANBiT-RT2019) on GitHub.
 2. Clone to your local machine, or work on the GitHub web interface to edit `2-lesson.md` markdown file
