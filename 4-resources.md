@@ -1,21 +1,13 @@
 ---
-title: Resources
+title: Mini-Projects
 nav: true
 ---
 
-# Resources
+# Mini-Projects
 
-To learn how to use `workshop-template`, the [Readme]({{ "README.md" | absolute_url }}) and content pages have some documentation.
+Here, you will find a summary of the mini-projects for the residentaial training. The projects will be tackled collaboratively in groups of four or five. 
 
-Other workshop sites using this template:
-
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
-
-# Reference
+# Remove below on full setup
 
 ### Git & GitHub
 
