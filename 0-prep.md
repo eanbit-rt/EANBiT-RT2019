@@ -5,7 +5,7 @@ nav: true
 
 # Residential Training Programme
 
-Congratulations on your acceptance for the residential training. Here you will find information Here you will find the Residential training program and a link to the training materials that wil be used for the module. 
+Congratulations on your acceptance for the residential training. Here you will find the Residential Training program and a link to the training materials that wil be used for each module. 
 
 <style type="text/css">
 	table.tableizer-table {
@@ -26,7 +26,7 @@ Congratulations on your acceptance for the residential training. Here you will f
 </style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Week</th><th>Course</th><th>Time Allocated (HRS)</th><th>Tentative day of the week</th><th>Facilitator (s)</th></tr></thead><tbody>
- <tr><td>Kilifi</td></tr>
+ <tr><td></td><td>&nbsp;</td><td>Kilifi</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>1</td><td>Version control and collaborative development (Git & Github & Slack)</td><td>6</td><td>Monday 01/07</td><td>Caleb</td></tr>
  <tr><td>&nbsp;</td><td>Linux commandline</td><td>1</td><td>Tuesday 02/07</td><td>J.B</td></tr>
  <tr><td>&nbsp;</td><td>Advanced Scripting (including sed, Awk, Regex)</td><td>5</td><td>Tuesday 02/07 </td><td>J.B</td></tr>
