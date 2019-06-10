@@ -25,8 +25,8 @@ Congratulations on your acceptance for the residential training. Here you will f
 	}
 </style>
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Week</th>Course<th>&nbsp;</th>Time Allocated (HRS)<th>&nbsp;</th>Tentative day of the week<th>&nbsp;</th>Facilitator (s)<th>&nbsp;</th></tr></thead><tbody>
- <tr><td>Kilifi</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<thead><tr class="tableizer-firstrow"><th>Week</th><th>Course</th><th>Time Allocated (HRS)</th><th>Tentative day of the week</th><th>Facilitator (s)</th></tr></thead><tbody>
+ <tr><td>Kilifi</td></tr>
  <tr><td>1</td><td>Version control and collaborative development (Git & Github & Slack)</td><td>6</td><td>Monday 01/07</td><td>Caleb</td></tr>
  <tr><td>&nbsp;</td><td>Linux commandline</td><td>1</td><td>Tuesday 02/07</td><td>J.B</td></tr>
  <tr><td>&nbsp;</td><td>Advanced Scripting (including sed, Awk, Regex)</td><td>5</td><td>Tuesday 02/07 </td><td>J.B</td></tr>
