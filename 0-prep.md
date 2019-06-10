@@ -25,8 +25,7 @@ Congratulations on your acceptance for the residential training. Here you will f
 	}
 </style>
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th></th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead><tbody>
- <tr><td>Week</td><td>Course</td><td>Time Allocated (HRS)</td><td>Tentative day of the week</td><td>Facilitator (s)</td></tr>
+<thead><tr class="tableizer-firstrow"><th>Week</th>Course<th>&nbsp;</th>Time Allocated (HRS)<th>&nbsp;</th>Tentative day of the week<th>&nbsp;</th>Facilitator (s)<th>&nbsp;</th></tr></thead><tbody>
  <tr><td>Kilifi</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>1</td><td>Version control and collaborative development (Git & Github & Slack)</td><td>6</td><td>Monday 01/07</td><td>Caleb</td></tr>
  <tr><td>&nbsp;</td><td>Linux commandline</td><td>1</td><td>Tuesday 02/07</td><td>J.B</td></tr>
@@ -45,9 +44,9 @@ Congratulations on your acceptance for the residential training. Here you will f
  <tr><td>2</td><td>Reproducibility and package management : workflow languages (CWL, Snakemake, Conda)</td><td>5</td><td>Monday 08/07</td><td>Caleb</td></tr>
  <tr><td>&nbsp;</td><td>Python</td><td>1</td><td>Monday 08/07</td><td>Caleb</td></tr>
  <tr><td>&nbsp;</td><td>Jupyter Notebooks</td><td>1</td><td>Monday 08/07</td><td>Caleb</td></tr>
- <tr><td>&nbsp;</td><td>Develop mini- project methodology</td><td>All day</td><td>Tuesday 09/07</td><td>&nbsp;</td></tr>
+ <tr><td>&nbsp;</td><td>Develop mini-project methodology</td><td>All day</td><td>Tuesday 09/07</td><td>&nbsp;</td></tr>
  <tr><td>&nbsp;</td><td>Meeting with mentors </td><td>1</td><td>Tuesday 09/07</td><td>&nbsp;</td></tr>
- <tr><td>&nbsp;</td><td>Present mini- project group concepts (how they plan to tackle them)</td><td>&nbsp;</td><td>Tuesday 09/07 (end of afternoon)</td><td>&nbsp;</td></tr>
+ <tr><td>&nbsp;</td><td>Present mini-project group concepts (how they plan to tackle them)</td><td>&nbsp;</td><td>Tuesday 09/07 (end of afternoon)</td><td>&nbsp;</td></tr>
  <tr><td>&nbsp;</td><td>Nanopore </td><td>6</td><td>Wednesday 10/07</td><td>George Githinji</td></tr>
  <tr><td>&nbsp;</td><td>Phylogenomics (Visualization and Annotation) + include Bayesian phylogenetics and make this longer (e.g. one day in total)</td><td>7</td><td>Thursday 11/07</td><td>J.B</td></tr>
  <tr><td>&nbsp;</td><td>R, R- markdown, Shiny apps (with practicals)</td><td>5</td><td>Friday 12/07</td><td>Oluwaseyi Shorinola & JB</td></tr>
