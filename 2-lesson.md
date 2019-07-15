@@ -16,8 +16,8 @@ Here, the participants of the residential training will write their profiles by 
 ## Profiles
 Add Image here
 
-Name: 
+Name: Festus Nyasimi
 
-Instituition: 
+Instituition: ICIPE/Pwani University
 
-Short Bio: 
+Short Bio: Festus is an upcoming bioinformatician with an extensive academic and research experience in molecular biology and microbiology. He has a Bsc. in Microbiology and Biotechnology from University of Nairobi, a PGD in Health Research Methods from Pwani University and he is a Masters research fellow under EANBiT. His research interests encompass molecular epidemiology of diseases, bioinformatics and statistics. 
