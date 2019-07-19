@@ -14,7 +14,7 @@ Here, the participants of the residential training will write their profiles by 
 5. All done, you pull request will be reviewed and merged to the website
 
 ## Profiles
-Add Image here
+![Image](https://ideal.kemri-wellcome.org/wp-content/uploads/2017/09/DSC_0107.jpg)
 
 Name: Festus Nyasimi
 
